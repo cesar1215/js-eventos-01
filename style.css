@@ -1,0 +1,12 @@
+body{
+    padding-left:55px;
+  }
+  h1{
+    font-size: 55px;
+    color: blue;
+  }
+  
+  .evento{
+    font-size: 25px;
+    color: red;
+  }
